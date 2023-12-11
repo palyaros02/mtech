@@ -3,7 +3,6 @@ name = "mtech"
 version = "0.1.0"
 description = "DS Trainee Test Task"
 authors = ["Yaroslav Palamarchuk <palyaros02@gmail.com>"]
-readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
