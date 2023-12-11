@@ -11,7 +11,7 @@
 ```poetry run streamlit run streamlit_app/app.py```
 
 
-Дашборд доступен по адресу []()
+Дашборд доступен по адресу [Age and Gender Analysis Dashboard](http://165.227.158.56:8501/)
 
 ## Docker
 
